@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FrancescoMarchiori/autofficina-marchiori">
-    <img src="assets/img/logo-white.png" alt="Logo" width="150" height="150">
+    <img src="assets/img/logo-white.png" alt="Logo" width="500" height="150">
   </a>
 
   <h1 align="center">Autofficina Marchiori Website</h1>
